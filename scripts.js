@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $("#hide").click(function(){
-    alert("Hello from my page");
+    alert("Sup fam, you aint seeing the sounds anymore Ha!");
     $("iframe").hide();
   });
   $("#show").click(function(){
