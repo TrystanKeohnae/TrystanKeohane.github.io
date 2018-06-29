@@ -6,4 +6,7 @@ $(document).ready(function(){
   $("#show").click(function(){
        $("iframe").show();
   });
+  $("#Jokes").click(function(){
+    alert("Im a Shark");
+ });
 });
